@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bazkunin
+- 👀 I’m interested in the third web, chaining blocks together, and cooperation above all else.
+- 🌱 I’m currently learning Solidity and TypeScript.
+- 💞️ I’m looking to collaborate on smart contracts and true decentralization.
+- 📫 How to reach me: Bazkunin@protonmail.com
